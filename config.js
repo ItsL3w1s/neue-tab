@@ -24,7 +24,7 @@ var config = {
 
 		"Shopping": {
 			"Amazon": ["https://amazon.com.au", "amazon.ico"],
-			"ASOS": ["https://asos.com", "asos.png"],
+			"Menulog": ["https://www.menulog.com.au/", "menulog.ico"],
 			"Steam Store": ["https://store.steampowered.com", "steam.ico"],
 			"Domino's": ["https://dominos.com.au", "dominos.ico"]
 		},
