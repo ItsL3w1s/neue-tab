@@ -14,7 +14,7 @@ var config = {
 			"Google": ["https://google.com.au", "google.ico"],
 			"GMail": ["https://gmail.com", "gmail.ico"],
 			"Keep": ["http://keep.google.com/", "keep.ico"],
-			"Translate": ["http://translate.google.com/", "translate.ico"]
+			"Drive": ["http://drive.google.com/", "drive.png"]
 		},
 
 		"Finance": {
@@ -23,16 +23,16 @@ var config = {
 		},
 
 		"Shopping": {
-			"Amazon": ["https://amazon.com.au", "amazon.ico"],
 			"Menulog": ["https://www.menulog.com.au/", "menulog.ico"],
+			"Amazon": ["https://amazon.com.au", "amazon.ico"],
 			"Steam Store": ["https://store.steampowered.com", "steam.ico"],
 			"Domino's": ["https://dominos.com.au", "dominos.ico"]
 		},
 
 		"Media/Social": {
 			"Spotify": ["https://spotify.com/", "spotify.png"],
-			"YouTube": ["https://youtube.com", "youtube.ico"],
-			"Facebook": ["https://facebook.com", "facebook.png"]
+			"Facebook": ["https://facebook.com", "facebook.png"],
+			"YouTube": ["https://youtube.com", "youtube.ico"]
 		},
 
 	}
