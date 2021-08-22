@@ -32,8 +32,8 @@ var config = {
 		"Media/Social": {
 			"Spotify": ["https://spotify.com/", "spotify.png"],
 			"Facebook": ["https://facebook.com", "facebook.png"],
+			"Twitter": ["https://twitter.com/home", "twitter.ico"],
 			"YouTube": ["https://youtube.com", "youtube.ico"]
 		},
-
 	}
 };
