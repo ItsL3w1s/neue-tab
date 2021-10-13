@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>New Tab</title>
+		<title>w0rthie photography</title>
 		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 		<link rel="stylesheet" type="text/css" href="assets/css/navbar.css">
 		<script type="text/javascript" src="config.js"></script>
@@ -16,17 +16,22 @@
 			<table id="container">
 				<tbody>
 					<tr><td>
+						<h1>w0rthie's photography</h1>
+						
 						<div id="clock">
 							<div>
-								<span id="hour">12</span><span class="colon">:</span><span id="minute">00</span><span class="colon">:</span><span id="second">00</span><span id="am-pm"> AM</span>
+								<span id="hour">12</span><span class="colon">:</span><span id="minute">00</span><span id="am-pm"> AM</span>
 							</div>
+							<!---
 							<div>Thursday 01/01/1970</div><br>
 								<div id="clock-progress-bars">
 								<div class="progress day"><div></div></div>
 								<div class="progress hour"><div></div></div>
 								<div class="progress minute"><div></div></div>
 							</div>
+							-->
 						</div>
+						
 					</td></tr>
 					<tr><td style="text-align:center">
 						<table id="links"><tbody></tbody></table>
@@ -53,10 +58,12 @@
 
 									let link = document.createElement("a");
 									link.setAttribute("href", item[0]);
-
+									
+									/*
 									let icon = document.createElement("img");
 									icon.setAttribute("src", "assets/img/icons/" + item[1]);
 									link.appendChild(icon);
+									*/
 
 									let span = document.createElement("span");
 									span.appendChild(document.createTextNode(item_name));

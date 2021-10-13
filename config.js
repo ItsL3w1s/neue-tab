@@ -10,11 +10,11 @@ var config = {
 		},
 		*/
 		
-		"Finance": {
-			"NAB": ["https://nab.com.au/", "nab.ico"],
-			"PayPal": ["https://www.paypal.com/au/signin", "paypal.ico"]
+		"Links": {
+			"Gallery": ["https://w0rthie.com/gallery", ""],
+			"PayPal": ["https://paypal.me/marzbox", "paypal.ico"]
 		},
-		
+		/*
 		"Shopping": {
 			"Menulog": ["https://www.menulog.com.au/", "menulog.ico"],
 			"Amazon": ["https://amazon.com.au", "amazon.ico"],
@@ -40,5 +40,6 @@ var config = {
 			"Keep": ["http://keep.google.com/", "keep.ico"],
 			"Drive": ["http://drive.google.com/", "drive.png"]
 		},
+		*/
 	}
 };
